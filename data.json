@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T22:28:15.375544+00:00",
+  "updated": "2026-09-12T22:39:08.611533+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "2-0",
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-09-12T22:28:50.953047+00:00"
+    "checked_at": "2026-09-12T22:39:43.603095+00:00"
   },
   "resources": [
     {
@@ -7797,91 +7797,6 @@
     ],
     "2026-09-10": [
       {
-        "id": "401868280",
-        "date": "2026-09-12T18:00Z",
-        "name": "Northern Michigan Wildcats at St. Thomas Tommies",
-        "teams": [
-          {
-            "id": "2900",
-            "name": "St. Thomas Tommies",
-            "short": "St Thomas",
-            "abbrev": "STMN",
-            "homeAway": "home",
-            "score": "56"
-          },
-          {
-            "id": "128",
-            "name": "Northern Michigan Wildcats",
-            "short": "N Michigan",
-            "abbrev": "NMI",
-            "homeAway": "away",
-            "score": "14"
-          }
-        ],
-        "state": "post",
-        "completed": true,
-        "detail": "Final",
-        "broadcasts": [
-          "Midco Sports Plus"
-        ]
-      },
-      {
-        "id": "401867953",
-        "date": "2026-09-12T19:00Z",
-        "name": "Bowie State Bulldogs at Delaware State Hornets",
-        "teams": [
-          {
-            "id": "2169",
-            "name": "Delaware State Hornets",
-            "short": "Delaware St",
-            "abbrev": "DSU",
-            "homeAway": "home",
-            "score": "21"
-          },
-          {
-            "id": "2075",
-            "name": "Bowie State Bulldogs",
-            "short": "Bowie St",
-            "abbrev": "BSU",
-            "homeAway": "away",
-            "score": "6"
-          }
-        ],
-        "state": "post",
-        "completed": true,
-        "detail": "Final",
-        "broadcasts": []
-      },
-      {
-        "id": "401868112",
-        "date": "2026-09-12T19:00Z",
-        "name": "Utah Tech Trailblazers at Montana Grizzlies",
-        "teams": [
-          {
-            "id": "149",
-            "name": "Montana Grizzlies",
-            "short": "Montana",
-            "abbrev": "MONT",
-            "homeAway": "home",
-            "score": "35"
-          },
-          {
-            "id": "3101",
-            "name": "Utah Tech Trailblazers",
-            "short": "Utah Tech",
-            "abbrev": "UTU",
-            "homeAway": "away",
-            "score": "14"
-          }
-        ],
-        "state": "post",
-        "completed": true,
-        "detail": "Final",
-        "broadcasts": [
-          "ESPN+"
-        ]
-      },
-      {
         "id": "401856785",
         "date": "2026-09-12T19:30Z",
         "name": "Weber State Wildcats at Colorado Buffaloes",
@@ -7892,7 +7807,7 @@
             "short": "Colorado",
             "abbrev": "COLO",
             "homeAway": "home",
-            "score": "45"
+            "score": "52"
           },
           {
             "id": "2692",
@@ -7905,7 +7820,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "14:45 - 4th",
+        "detail": "11:35 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -7921,7 +7836,7 @@
             "short": "Akron",
             "abbrev": "AKR",
             "homeAway": "home",
-            "score": "38"
+            "score": "45"
           },
           {
             "id": "2523",
@@ -7934,7 +7849,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "8:40 - 4th",
+        "detail": "1:58 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -7963,36 +7878,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "10:58 - 4th",
-        "broadcasts": [
-          "ESPN+"
-        ]
-      },
-      {
-        "id": "401866420",
-        "date": "2026-09-12T19:30Z",
-        "name": "Sacred Heart Pioneers at Massachusetts Minutemen",
-        "teams": [
-          {
-            "id": "113",
-            "name": "Massachusetts Minutemen",
-            "short": "UMass",
-            "abbrev": "MASS",
-            "homeAway": "home",
-            "score": "37"
-          },
-          {
-            "id": "2529",
-            "name": "Sacred Heart Pioneers",
-            "short": "Sacred Heart",
-            "abbrev": "SHU",
-            "homeAway": "away",
-            "score": "10"
-          }
-        ],
-        "state": "post",
-        "completed": true,
-        "detail": "Final",
+        "detail": "5:07 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8021,7 +7907,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "4:17 - 3rd",
+        "detail": "0:31 - 3rd",
         "broadcasts": [
           "ACCNX"
         ]
@@ -8066,7 +7952,7 @@
             "short": "New Mexico",
             "abbrev": "UNM",
             "homeAway": "home",
-            "score": "56"
+            "score": "63"
           },
           {
             "id": "2385",
@@ -8079,7 +7965,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "10:03 - 3rd",
+        "detail": "5:58 - 3rd",
         "broadcasts": [
           "MW+"
         ]
@@ -8103,12 +7989,12 @@
             "short": "Lamar",
             "abbrev": "LAM",
             "homeAway": "away",
-            "score": "20"
+            "score": "23"
           }
         ],
         "state": "in",
         "completed": false,
-        "detail": "End of 3rd",
+        "detail": "10:45 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8124,7 +8010,7 @@
             "short": "Troy",
             "abbrev": "TROY",
             "homeAway": "home",
-            "score": "31"
+            "score": "34"
           },
           {
             "id": "2011",
@@ -8137,7 +8023,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "5:15 - 3rd",
+        "detail": "1:55 - 3rd",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8166,7 +8052,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "End of 3rd",
+        "detail": "11:35 - 4th",
         "broadcasts": []
       },
       {
@@ -8209,7 +8095,7 @@
             "short": "Austin Peay",
             "abbrev": "APSU",
             "homeAway": "home",
-            "score": "42"
+            "score": "49"
           },
           {
             "id": "2413",
@@ -8222,7 +8108,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "1:53 - 2nd",
+        "detail": "End of 2nd",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8275,12 +8161,12 @@
             "short": "Stetson",
             "abbrev": "STET",
             "homeAway": "away",
-            "score": "3"
+            "score": "10"
           }
         ],
         "state": "in",
         "completed": false,
-        "detail": "4:04 - 2nd",
+        "detail": "End of 2nd",
         "broadcasts": [
           "SWAC TV"
         ]
@@ -8296,7 +8182,7 @@
             "short": "Florida",
             "abbrev": "FLA",
             "homeAway": "home",
-            "score": "24"
+            "score": "31"
           },
           {
             "id": "2097",
@@ -8309,9 +8195,38 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "11:01 - 2nd",
+        "detail": "7:52 - 2nd",
         "broadcasts": [
           "SECN+"
+        ]
+      },
+      {
+        "id": "401866629",
+        "date": "2026-09-12T22:00Z",
+        "name": "Bryant Bulldogs at Hampton Pirates",
+        "teams": [
+          {
+            "id": "2261",
+            "name": "Hampton Pirates",
+            "short": "Hampton",
+            "abbrev": "HAMP",
+            "homeAway": "home",
+            "score": "0"
+          },
+          {
+            "id": "2803",
+            "name": "Bryant Bulldogs",
+            "short": "Bryant",
+            "abbrev": "BRY",
+            "homeAway": "away",
+            "score": "0"
+          }
+        ],
+        "state": "in",
+        "completed": false,
+        "detail": "Delayed",
+        "broadcasts": [
+          "FloSports"
         ]
       },
       {
@@ -8325,7 +8240,7 @@
             "short": "New Hampshire",
             "abbrev": "UNH",
             "homeAway": "home",
-            "score": "7"
+            "score": "14"
           },
           {
             "id": "284",
@@ -8338,7 +8253,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "9:15 - 1st",
+        "detail": "End of 1st",
         "broadcasts": [
           "FloSports"
         ]
@@ -8354,7 +8269,7 @@
             "short": "Morgan St",
             "abbrev": "MORG",
             "homeAway": "home",
-            "score": "0"
+            "score": "14"
           },
           {
             "id": "2355",
@@ -8367,7 +8282,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "7:03 - 1st",
+        "detail": "0:30 - 1st",
         "broadcasts": []
       },
       {
@@ -8381,7 +8296,7 @@
             "short": "SC State",
             "abbrev": "SCST",
             "homeAway": "home",
-            "score": "7"
+            "score": "14"
           },
           {
             "id": "330",
@@ -8394,7 +8309,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "6:10 - 1st",
+        "detail": "2:50 - 1st",
         "broadcasts": []
       },
       {
@@ -8408,7 +8323,7 @@
             "short": "Idaho St",
             "abbrev": "IDST",
             "homeAway": "home",
-            "score": "14"
+            "score": "21"
           },
           {
             "id": "301",
@@ -8421,7 +8336,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "4:15 - 1st",
+        "detail": "0:57 - 1st",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8450,7 +8365,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "7:29 - 1st",
+        "detail": "1:19 - 1st",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8474,12 +8389,41 @@
             "short": "Charleston So",
             "abbrev": "CHSO",
             "homeAway": "away",
+            "score": "7"
+          }
+        ],
+        "state": "in",
+        "completed": false,
+        "detail": "1:38 - 1st",
+        "broadcasts": [
+          "ESPN+"
+        ]
+      },
+      {
+        "id": "401868210",
+        "date": "2026-09-12T22:00Z",
+        "name": "Franklin Grizzlies at Butler Bulldogs",
+        "teams": [
+          {
+            "id": "2086",
+            "name": "Butler Bulldogs",
+            "short": "Butler",
+            "abbrev": "BTLR",
+            "homeAway": "home",
+            "score": "7"
+          },
+          {
+            "id": "2233",
+            "name": "Franklin Grizzlies",
+            "short": "Franklin",
+            "abbrev": "FRNK",
+            "homeAway": "away",
             "score": "0"
           }
         ],
         "state": "in",
         "completed": false,
-        "detail": "8:22 - 1st",
+        "detail": "14:53 - 2nd",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8508,7 +8452,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "2:41 - 1st",
+        "detail": "13:32 - 2nd",
         "broadcasts": [
           "ESPN+"
         ]
@@ -9122,59 +9066,115 @@
         ]
       },
       {
-        "id": "401866629",
-        "date": "2026-09-12T22:00Z",
-        "name": "Bryant Bulldogs at Hampton Pirates",
+        "id": "401868280",
+        "date": "2026-09-12T18:00Z",
+        "name": "Northern Michigan Wildcats at St. Thomas Tommies",
         "teams": [
           {
-            "id": "2261",
-            "name": "Hampton Pirates",
-            "short": "Hampton",
-            "abbrev": "HAMP",
+            "id": "2900",
+            "name": "St. Thomas Tommies",
+            "short": "St Thomas",
+            "abbrev": "STMN",
             "homeAway": "home",
-            "score": "0"
+            "score": "56"
           },
           {
-            "id": "2803",
-            "name": "Bryant Bulldogs",
-            "short": "Bryant",
-            "abbrev": "BRY",
+            "id": "128",
+            "name": "Northern Michigan Wildcats",
+            "short": "N Michigan",
+            "abbrev": "NMI",
             "homeAway": "away",
-            "score": "0"
+            "score": "14"
           }
         ],
-        "state": "in",
-        "completed": false,
-        "detail": "Delayed",
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
         "broadcasts": [
-          "FloSports"
+          "Midco Sports Plus"
         ]
       },
       {
-        "id": "401868210",
-        "date": "2026-09-12T22:00Z",
-        "name": "Franklin Grizzlies at Butler Bulldogs",
+        "id": "401867953",
+        "date": "2026-09-12T19:00Z",
+        "name": "Bowie State Bulldogs at Delaware State Hornets",
         "teams": [
           {
-            "id": "2086",
-            "name": "Butler Bulldogs",
-            "short": "Butler",
-            "abbrev": "BTLR",
+            "id": "2169",
+            "name": "Delaware State Hornets",
+            "short": "Delaware St",
+            "abbrev": "DSU",
             "homeAway": "home",
-            "score": "7"
+            "score": "21"
           },
           {
-            "id": "2233",
-            "name": "Franklin Grizzlies",
-            "short": "Franklin",
-            "abbrev": "FRNK",
+            "id": "2075",
+            "name": "Bowie State Bulldogs",
+            "short": "Bowie St",
+            "abbrev": "BSU",
             "homeAway": "away",
-            "score": "0"
+            "score": "6"
           }
         ],
-        "state": "in",
-        "completed": false,
-        "detail": "3:02 - 1st",
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "broadcasts": []
+      },
+      {
+        "id": "401868112",
+        "date": "2026-09-12T19:00Z",
+        "name": "Utah Tech Trailblazers at Montana Grizzlies",
+        "teams": [
+          {
+            "id": "149",
+            "name": "Montana Grizzlies",
+            "short": "Montana",
+            "abbrev": "MONT",
+            "homeAway": "home",
+            "score": "35"
+          },
+          {
+            "id": "3101",
+            "name": "Utah Tech Trailblazers",
+            "short": "Utah Tech",
+            "abbrev": "UTU",
+            "homeAway": "away",
+            "score": "14"
+          }
+        ],
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "broadcasts": [
+          "ESPN+"
+        ]
+      },
+      {
+        "id": "401866420",
+        "date": "2026-09-12T19:30Z",
+        "name": "Sacred Heart Pioneers at Massachusetts Minutemen",
+        "teams": [
+          {
+            "id": "113",
+            "name": "Massachusetts Minutemen",
+            "short": "UMass",
+            "abbrev": "MASS",
+            "homeAway": "home",
+            "score": "37"
+          },
+          {
+            "id": "2529",
+            "name": "Sacred Heart Pioneers",
+            "short": "Sacred Heart",
+            "abbrev": "SHU",
+            "homeAway": "away",
+            "score": "10"
+          }
+        ],
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
         "broadcasts": [
           "ESPN+"
         ]
@@ -9201,9 +9201,9 @@
             "score": "0"
           }
         ],
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "9/12 - 6:30 PM EDT",
+        "detail": "15:00 - 1st",
         "broadcasts": [
           "ESPN+"
         ]
@@ -27507,5 +27507,5 @@
     "url": "https://skylinesportsmt.com/griz-press-conference-montanas-bobby-kennedy-s-kade-boyd-wr-landon-ransom-goelz-on-utah-tech/",
     "youtube_id": ""
   },
-  "fcs_scores_updated": "2026-09-12T22:28:54.600947+00:00"
+  "fcs_scores_updated": "2026-09-12T22:39:46.010152+00:00"
 }
