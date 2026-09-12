@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T22:39:08.611533+00:00",
+  "updated": "2026-09-12T22:47:55.797359+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "2-0",
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-09-12T22:39:43.603095+00:00"
+    "checked_at": "2026-09-12T22:48:17.792212+00:00"
   },
   "resources": [
     {
@@ -7815,12 +7815,12 @@
             "short": "Weber St",
             "abbrev": "WEB",
             "homeAway": "away",
-            "score": "14"
+            "score": "21"
           }
         ],
         "state": "in",
         "completed": false,
-        "detail": "11:35 - 4th",
+        "detail": "7:42 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -7849,7 +7849,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "1:58 - 4th",
+        "detail": "End of 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -7865,7 +7865,7 @@
             "short": "Toledo",
             "abbrev": "TOL",
             "homeAway": "home",
-            "score": "56"
+            "score": "63"
           },
           {
             "id": "2115",
@@ -7878,7 +7878,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "5:07 - 4th",
+        "detail": "1:58 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -7902,12 +7902,12 @@
             "short": "UC Davis",
             "abbrev": "UCD",
             "homeAway": "away",
-            "score": "0"
+            "score": "7"
           }
         ],
         "state": "in",
         "completed": false,
-        "detail": "0:31 - 3rd",
+        "detail": "11:07 - 4th",
         "broadcasts": [
           "ACCNX"
         ]
@@ -7965,7 +7965,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "5:58 - 3rd",
+        "detail": "15:00 - 4th",
         "broadcasts": [
           "MW+"
         ]
@@ -7994,7 +7994,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "10:45 - 4th",
+        "detail": "10:38 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8023,7 +8023,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "1:55 - 3rd",
+        "detail": "14:59 - 3rd",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8052,7 +8052,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "11:35 - 4th",
+        "detail": "7:25 - 4th",
         "broadcasts": []
       },
       {
@@ -8079,7 +8079,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "Halftime",
+        "detail": "13:12 - 3rd",
         "broadcasts": [
           "FloSports"
         ]
@@ -8108,7 +8108,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "End of 2nd",
+        "detail": "Halftime",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8124,7 +8124,7 @@
             "short": "N Arizona",
             "abbrev": "NAU",
             "homeAway": "home",
-            "score": "17"
+            "score": "24"
           },
           {
             "id": "2916",
@@ -8137,7 +8137,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "7:36 - 2nd",
+        "detail": "0:16 - 2nd",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8166,7 +8166,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "End of 2nd",
+        "detail": "Halftime",
         "broadcasts": [
           "SWAC TV"
         ]
@@ -8195,7 +8195,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "7:52 - 2nd",
+        "detail": "4:04 - 2nd",
         "broadcasts": [
           "SECN+"
         ]
@@ -8253,7 +8253,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "End of 1st",
+        "detail": "15:00 - 2nd",
         "broadcasts": [
           "FloSports"
         ]
@@ -8282,7 +8282,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "0:30 - 1st",
+        "detail": "End of 1st",
         "broadcasts": []
       },
       {
@@ -8309,7 +8309,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "2:50 - 1st",
+        "detail": "0:06 - 1st",
         "broadcasts": []
       },
       {
@@ -8336,7 +8336,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "0:57 - 1st",
+        "detail": "12:28 - 2nd",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8365,7 +8365,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "1:19 - 1st",
+        "detail": "14:45 - 2nd",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8410,7 +8410,7 @@
             "short": "Butler",
             "abbrev": "BTLR",
             "homeAway": "home",
-            "score": "7"
+            "score": "13"
           },
           {
             "id": "2233",
@@ -8423,7 +8423,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "14:53 - 2nd",
+        "detail": "11:23 - 2nd",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8452,7 +8452,36 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "13:32 - 2nd",
+        "detail": "12:32 - 2nd",
+        "broadcasts": [
+          "ESPN+"
+        ]
+      },
+      {
+        "id": "401866421",
+        "date": "2026-09-12T22:30Z",
+        "name": "Monmouth Hawks at Western Michigan Broncos",
+        "teams": [
+          {
+            "id": "2711",
+            "name": "Western Michigan Broncos",
+            "short": "W Michigan",
+            "abbrev": "WMU",
+            "homeAway": "home",
+            "score": "0"
+          },
+          {
+            "id": "2405",
+            "name": "Monmouth Hawks",
+            "short": "Monmouth",
+            "abbrev": "MONM",
+            "homeAway": "away",
+            "score": "0"
+          }
+        ],
+        "state": "in",
+        "completed": false,
+        "detail": "10:45 - 1st",
         "broadcasts": [
           "ESPN+"
         ]
@@ -9175,35 +9204,6 @@
         "state": "post",
         "completed": true,
         "detail": "Final",
-        "broadcasts": [
-          "ESPN+"
-        ]
-      },
-      {
-        "id": "401866421",
-        "date": "2026-09-12T22:30Z",
-        "name": "Monmouth Hawks at Western Michigan Broncos",
-        "teams": [
-          {
-            "id": "2711",
-            "name": "Western Michigan Broncos",
-            "short": "W Michigan",
-            "abbrev": "WMU",
-            "homeAway": "home",
-            "score": "0"
-          },
-          {
-            "id": "2405",
-            "name": "Monmouth Hawks",
-            "short": "Monmouth",
-            "abbrev": "MONM",
-            "homeAway": "away",
-            "score": "0"
-          }
-        ],
-        "state": "in",
-        "completed": false,
-        "detail": "15:00 - 1st",
         "broadcasts": [
           "ESPN+"
         ]
@@ -27507,5 +27507,5 @@
     "url": "https://skylinesportsmt.com/griz-press-conference-montanas-bobby-kennedy-s-kade-boyd-wr-landon-ransom-goelz-on-utah-tech/",
     "youtube_id": ""
   },
-  "fcs_scores_updated": "2026-09-12T22:39:46.010152+00:00"
+  "fcs_scores_updated": "2026-09-12T22:48:19.963026+00:00"
 }
