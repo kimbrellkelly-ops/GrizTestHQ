@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T01:39:43.089258+00:00",
+  "updated": "2026-09-13T01:48:35.116656+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "3-0",
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-09-13T01:40:24.065759+00:00"
+    "checked_at": "2026-09-13T01:48:55.647664+00:00"
   },
   "resources": [
     {
@@ -7820,37 +7820,10 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "11:50 - 4th",
+        "detail": "9:25 - 4th",
         "broadcasts": [
           "FloSports"
         ]
-      },
-      {
-        "id": "401867966",
-        "date": "2026-09-12T22:00Z",
-        "name": "Virginia Lynchburg Dragons at Morgan State Bears",
-        "teams": [
-          {
-            "id": "2415",
-            "name": "Morgan State Bears",
-            "short": "Morgan St",
-            "abbrev": "MORG",
-            "homeAway": "home",
-            "score": "55"
-          },
-          {
-            "id": "2355",
-            "name": "Virginia Lynchburg Dragons",
-            "short": "VA Lynchburg",
-            "abbrev": "UVAL",
-            "homeAway": "away",
-            "score": "0"
-          }
-        ],
-        "state": "post",
-        "completed": true,
-        "detail": "Final",
-        "broadcasts": []
       },
       {
         "id": "401868141",
@@ -7863,7 +7836,7 @@
             "short": "E Kentucky",
             "abbrev": "EKU",
             "homeAway": "home",
-            "score": "16"
+            "score": "22"
           },
           {
             "id": "236",
@@ -7876,7 +7849,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "8:46 - 4th",
+        "detail": "3:48 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -7903,9 +7876,9 @@
             "score": "26"
           }
         ],
-        "state": "in",
-        "completed": false,
-        "detail": "2OT",
+        "state": "post",
+        "completed": true,
+        "detail": "Final/2OT",
         "broadcasts": [
           "ESPN+"
         ]
@@ -7963,7 +7936,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "4:11 - 4th",
+        "detail": "2:00 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -7979,7 +7952,7 @@
             "short": "Houston",
             "abbrev": "HOU",
             "homeAway": "home",
-            "score": "70"
+            "score": "77"
           },
           {
             "id": "2582",
@@ -7992,7 +7965,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "15:00 - 3rd",
+        "detail": "5:56 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8050,7 +8023,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "11:51 - 4th",
+        "detail": "8:45 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8074,12 +8047,12 @@
             "short": "Southern Utah",
             "abbrev": "SUU",
             "homeAway": "away",
-            "score": "21"
+            "score": "24"
           }
         ],
         "state": "in",
         "completed": false,
-        "detail": "1:42 - 3rd",
+        "detail": "12:44 - 4th",
         "broadcasts": [
           "CBSSN"
         ]
@@ -8103,12 +8076,12 @@
             "short": "Illinois St",
             "abbrev": "ILST",
             "homeAway": "away",
-            "score": "21"
+            "score": "28"
           }
         ],
         "state": "in",
         "completed": false,
-        "detail": "5:13 - 4th",
+        "detail": "1:48 - 4th",
         "broadcasts": [
           "MW+"
         ]
@@ -8124,7 +8097,7 @@
             "short": "E Illinois",
             "abbrev": "EIU",
             "homeAway": "home",
-            "score": "21"
+            "score": "27"
           },
           {
             "id": "282",
@@ -8137,7 +8110,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "1:23 - 3rd",
+        "detail": "14:00 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8166,7 +8139,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "2:01 - 3rd",
+        "detail": "15:00 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8195,7 +8168,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "14:14 - 4th",
+        "detail": "11:02 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8211,7 +8184,7 @@
             "short": "C Arkansas",
             "abbrev": "CARK",
             "homeAway": "home",
-            "score": "45"
+            "score": "52"
           },
           {
             "id": "2122",
@@ -8224,7 +8197,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "14:05 - 4th",
+        "detail": "8:58 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8253,7 +8226,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "3:03 - 3rd",
+        "detail": "13:18 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8282,7 +8255,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "6:10 - 3rd",
+        "detail": "End of 3rd",
         "broadcasts": [
           "SWAC TV"
         ]
@@ -8298,7 +8271,7 @@
             "short": "Arkansas St",
             "abbrev": "ARST",
             "homeAway": "home",
-            "score": "38"
+            "score": "45"
           },
           {
             "id": "2698",
@@ -8311,7 +8284,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "11:43 - 4th",
+        "detail": "8:27 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8335,12 +8308,12 @@
             "short": "UT Rio Grande",
             "abbrev": "RGV",
             "homeAway": "away",
-            "score": "14"
+            "score": "21"
           }
         ],
         "state": "in",
         "completed": false,
-        "detail": "14:41 - 4th",
+        "detail": "8:59 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8369,7 +8342,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "5:11 - 3rd",
+        "detail": "15:00 - 4th",
         "broadcasts": []
       },
       {
@@ -8396,7 +8369,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "0:51 - 3rd",
+        "detail": "15:00 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8425,7 +8398,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "2:05 - 3rd",
+        "detail": "13:56 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8454,7 +8427,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "End of 3rd",
+        "detail": "12:37 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8478,12 +8451,12 @@
             "short": "Lindenwood",
             "abbrev": "LIN",
             "homeAway": "away",
-            "score": "7"
+            "score": "14"
           }
         ],
         "state": "in",
         "completed": false,
-        "detail": "15:00 - 4th",
+        "detail": "12:16 - 4th",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8512,7 +8485,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "4:18 - 3rd",
+        "detail": "End of 3rd",
         "broadcasts": [
           "ESPN+",
           "Midco Sports Net",
@@ -8543,7 +8516,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "0:45 - 3rd",
+        "detail": "11:56 - 4th",
         "broadcasts": [
           "BTN"
         ]
@@ -8559,7 +8532,7 @@
             "short": "Coastal",
             "abbrev": "CCU",
             "homeAway": "home",
-            "score": "28"
+            "score": "35"
           },
           {
             "id": "2230",
@@ -8572,7 +8545,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "Halftime",
+        "detail": "8:00 - 3rd",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8630,7 +8603,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "End of 2nd",
+        "detail": "Halftime",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8659,7 +8632,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "End of 2nd",
+        "detail": "Halftime",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8675,7 +8648,7 @@
             "short": "Baylor",
             "abbrev": "BAY",
             "homeAway": "home",
-            "score": "31"
+            "score": "34"
           },
           {
             "id": "2504",
@@ -8688,7 +8661,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "4:37 - 2nd",
+        "detail": "2:00 - 2nd",
         "broadcasts": [
           "ESPN+"
         ]
@@ -8712,12 +8685,12 @@
             "short": "Cal Poly",
             "abbrev": "CP",
             "homeAway": "away",
-            "score": "0"
+            "score": "6"
           }
         ],
         "state": "in",
         "completed": false,
-        "detail": "15:00 - 2nd",
+        "detail": "13:28 - 2nd",
         "broadcasts": [
           "MW+"
         ]
@@ -8746,7 +8719,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "2:05 - 1st",
+        "detail": "13:29 - 2nd",
         "broadcasts": [
           "MW+"
         ]
@@ -9905,6 +9878,33 @@
         "broadcasts": [
           "FloSports"
         ]
+      },
+      {
+        "id": "401867966",
+        "date": "2026-09-12T22:00Z",
+        "name": "Virginia Lynchburg Dragons at Morgan State Bears",
+        "teams": [
+          {
+            "id": "2415",
+            "name": "Morgan State Bears",
+            "short": "Morgan St",
+            "abbrev": "MORG",
+            "homeAway": "home",
+            "score": "55"
+          },
+          {
+            "id": "2355",
+            "name": "Virginia Lynchburg Dragons",
+            "short": "VA Lynchburg",
+            "abbrev": "UVAL",
+            "homeAway": "away",
+            "score": "0"
+          }
+        ],
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "broadcasts": []
       },
       {
         "id": "401867983",
@@ -27507,5 +27507,5 @@
     "url": "https://skylinesportsmt.com/griz-press-conference-montanas-bobby-kennedy-s-kade-boyd-wr-landon-ransom-goelz-on-utah-tech/",
     "youtube_id": ""
   },
-  "fcs_scores_updated": "2026-09-13T01:40:27.644324+00:00"
+  "fcs_scores_updated": "2026-09-13T01:48:57.677080+00:00"
 }
