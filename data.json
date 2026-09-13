@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T05:02:43.236144+00:00",
+  "updated": "2026-09-13T05:17:53.486343+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "3-0",
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-09-13T05:03:09.048888+00:00"
+    "checked_at": "2026-09-13T05:18:32.447819+00:00"
   },
   "resources": [
     {
@@ -7818,9 +7818,9 @@
             "score": "47"
           }
         ],
-        "state": "in",
-        "completed": false,
-        "detail": "6:23 - 4th",
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
         "broadcasts": [
           "ESPN+"
         ]
@@ -7849,7 +7849,7 @@
         ],
         "state": "in",
         "completed": false,
-        "detail": "1:07 - 3rd",
+        "detail": "13:32 - 4th",
         "broadcasts": [
           "CW"
         ]
@@ -27507,5 +27507,5 @@
     "url": "https://skylinesportsmt.com/watch-griz-press-conference-bobby-kennedy-tanner-williams-kealii-ah-yat-after-utah-tech-win/",
     "youtube_id": "kUA6VfnmPKI"
   },
-  "fcs_scores_updated": "2026-09-13T05:03:12.198075+00:00"
+  "fcs_scores_updated": "2026-09-13T05:18:34.939742+00:00"
 }
