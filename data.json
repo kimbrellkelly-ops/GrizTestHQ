@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T14:45:11.175981+00:00",
+  "updated": "2026-09-19T14:52:06.799737+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "3-0",
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-09-19T14:45:41.423425+00:00"
+    "checked_at": "2026-09-19T14:53:13.800627+00:00"
   },
   "resources": [
     {
@@ -2940,12 +2940,12 @@
         "note": "Official game results"
       },
       {
-        "value": "429",
+        "value": "475",
         "label": "TOTAL OFFENSE",
         "note": "Yards per game"
       },
       {
-        "value": "404",
+        "value": "351",
         "label": "TOTAL DEFENSE",
         "note": "Yards allowed per game"
       }
