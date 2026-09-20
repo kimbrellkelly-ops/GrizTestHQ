@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T08:02:58.461512+00:00",
+  "updated": "2026-09-20T08:19:50.528741+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "3-1",
@@ -167,6 +167,12 @@
   ],
   "news": [
     {
+      "title": "Beavers use big plays to beat Griz in Corvallis",
+      "url": "https://gogriz.com/news/2026/9/20/football-beavers-use-big-plays-to-beat-griz-in-corvallis",
+      "date": "Sun, 20 Sep 2026 02:03:00 MST",
+      "description": "CORVALLIS – The Montana Grizzlies couldn't out-pace a fast and physical Oregon State team Saturday night, with the Beavers using their big play offensive attack to jump out to an e"
+    },
+    {
       "title": "Griz to battle Beavers on Saturday night in Corvallis",
       "url": "https://gogriz.com/news/2026/9/15/football-griz-to-battle-beavers-on-saturday-night-in-corvallis",
       "date": "Tue, 15 Sep 2026 16:20:00 MST",
@@ -207,12 +213,6 @@
       "url": "https://gogriz.com/news/2026/9/1/football-griz-look-to-build-momentum-against-drake",
       "date": "Tue, 1 Sep 2026 16:53:00 MST",
       "description": "After starting the Bobby Kennedy era 1-0, the Montana Grizzlies return to action this week for the first nonconference game of the year at Washington-Grizzy Stadium as the Drake Bu"
-    },
-    {
-      "title": "Mason named Big Sky Special Teams Player of the Week",
-      "url": "https://gogriz.com/news/2026/8/31/football-mason-named-big-sky-special-teams-player-of-the-week",
-      "date": "Mon, 31 Aug 2026 09:21:00 MST",
-      "description": "They call it special teams for a reason… but Grizzly defensive end Jake Mason was a catalyst in the standout day by Montana's third unit on Saturday in UM's 28-21 Big Sky Conferenc"
     }
   ],
   "depth_chart": {
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-09-20T08:03:45.302543+00:00"
+    "checked_at": "2026-09-20T08:20:27.813509+00:00"
   },
   "resources": [
     {
