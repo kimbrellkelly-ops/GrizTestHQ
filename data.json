@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-20T07:02:35.402170+00:00",
+  "updated": "2026-09-20T07:18:19.281558+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
-    "record": "3-0",
+    "record": "3-1",
     "conference_record": "1-0",
-    "streak": "W3"
+    "streak": "L4"
   },
   "next_game": {
-    "opponent": "Oregon State",
-    "date": "Sep 19 (Sat)",
-    "time": "9 PM (MT)",
+    "opponent": "UC Davis",
+    "date": "Sep 26 (Sat)",
+    "time": "8 PM (MT)",
     "venue": "Away",
     "url": "https://gogriz.com/sports/football/schedule"
   },
@@ -42,7 +42,7 @@
       "date": "Sep 19 (Sat)",
       "opponent": "Oregon State",
       "location": "Away",
-      "result": "",
+      "result": "L 17-52",
       "time": "9 PM (MT)",
       "conference": false
     },
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-09-20T07:03:09.079148+00:00"
+    "checked_at": "2026-09-20T07:19:01.255150+00:00"
   },
   "resources": [
     {
@@ -2930,12 +2930,12 @@
     "through": "Through current completed games",
     "team_summary": [
       {
-        "value": "3–0",
+        "value": "3–1",
         "label": "RECORD",
         "note": "2026"
       },
       {
-        "value": "36.0",
+        "value": "40.0",
         "label": "POINTS / GAME",
         "note": "Official game results"
       },
