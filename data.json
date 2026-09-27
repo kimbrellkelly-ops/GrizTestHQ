@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T06:56:51.366934+00:00",
+  "updated": "2026-09-27T07:06:30.815301+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "4-1",
@@ -167,6 +167,12 @@
   ],
   "news": [
     {
+      "title": "Gillman has career day as Griz dominate Aggies in ranked showdown",
+      "url": "https://gogriz.com/news/2026/9/27/football-gillman-has-career-day-as-griz-dominate-aggies-in-ranked-showdown",
+      "date": "Sun, 27 Sep 2026 00:44:00 MST",
+      "description": "DAVIS, Calif. – A game for the ages, and another week of history for Eli Gillman."
+    },
+    {
       "title": "Griz football to host player reunion weekend as part of stadium’s 40th anniversary celebration",
       "url": "https://gogriz.com/news/2026/9/24/football-griz-football-to-host-player-reunion-weekend-as-part-of-stadiums-40th-anniversary-celebration",
       "date": "Thu, 24 Sep 2026 13:50:00 MST",
@@ -207,12 +213,6 @@
       "url": "https://gogriz.com/news/2026/9/8/football-montana-hosts-utah-tech-in-saturday-showdown",
       "date": "Tue, 8 Sep 2026 18:34:00 MST",
       "description": "The Montana Grizzlies return to action this week inside the friendly confines of Washington-Grizzly Stadium on Saturday for their second of three nonconference matchups in 2026, ho"
-    },
-    {
-      "title": "Gillman sets records as Griz roll past Bulldogs, 45-10",
-      "url": "https://gogriz.com/news/2026/9/5/football-gillman-sets-records-as-griz-roll-past-bulldogs-45-10",
-      "date": "Sat, 5 Sep 2026 19:45:00 MST",
-      "description": "MISSOULA – It was a record setting day in Missoula as running back Eli Gillman became and all-time Grizzly great, leading Montana to a dominant 45-10 nonconference victory over the"
     }
   ],
   "depth_chart": {
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-09-27T06:57:31.495394+00:00"
+    "checked_at": "2026-09-27T07:07:06.236531+00:00"
   },
   "resources": [
     {
