@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T09:23:14.013184+00:00",
+  "updated": "2026-09-29T09:39:12.536369+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "4-1",
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-09-29T09:24:03.393501+00:00"
+    "checked_at": "2026-09-29T09:40:10.187179+00:00"
   },
   "resources": [
     {
@@ -27519,9 +27519,10 @@
     ]
   },
   "latest_press_conference": {
-    "title": "WATCH – Griz press conference – Bobby Kennedy, Eli Gillman & Tyler King + Drake’s Matt Walker",
-    "date": "September 5, 2026",
-    "url": "https://skylinesportsmt.com/watch-griz-press-conference-bobby-kennedy-eli-gillman-tyler-king-drakes-matt-walker/"
+    "title": "Montana State press conference – Brent Vigen, Patrick Duchien, Bryce Grebe on 28-14 win over NAU",
+    "date": "Sun, 27 Sep 2026 08:01:49 +0000",
+    "url": "https://skylinesportsmt.com/montana-state-press-conference-brent-vigen-patrick-duchien-bryce-grebe-on-28-14-win-over-nau/",
+    "youtube_id": ""
   },
   "fcs_scores_updated": "2026-09-15T21:46:21.427669+00:00"
 }
