@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-04T00:08:15.778000+00:00",
+  "updated": "2026-10-04T05:43:43.934480+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
-    "record": "4-1",
-    "conference_record": "2-0",
-    "streak": "W5"
+    "record": "5-1",
+    "conference_record": "3-0",
+    "streak": "W6"
   },
   "next_game": {
-    "opponent": "Northern Colorado",
-    "date": "Oct 3 (Sat)",
-    "time": "2 PM",
-    "venue": "Washington-Grizzly Stadium, Missoula, Mont.",
+    "opponent": "Northern Arizona",
+    "date": "Oct 10 (Sat)",
+    "time": "3 PM (MT)",
+    "venue": "Away",
     "url": "https://gogriz.com/sports/football/schedule"
   },
   "schedule": [
@@ -58,7 +58,7 @@
       "date": "Oct 3 (Sat)",
       "opponent": "Northern Colorado",
       "location": "Home",
-      "result": "",
+      "result": "W 36-14",
       "time": "2 PM",
       "conference": true
     },
@@ -167,6 +167,12 @@
   ],
   "news": [
     {
+      "title": "Explosive offense carries Griz to Homecoming win over Bears",
+      "url": "https://gogriz.com/news/2026/10/3/football-explosive-offense-carries-griz-to-homecoming-win-over-bears",
+      "date": "Sat, 3 Oct 2026 19:10:00 MST",
+      "description": "MISSOULA – Historic performances continued to pile up for the Montana Grizzlies on Homecoming."
+    },
+    {
       "title": "Griz to host winter flag football league for kids",
       "url": "https://gogriz.com/news/2026/9/30/football-griz-to-host-winter-flag-football-league-for-kids",
       "date": "Wed, 30 Sep 2026 17:05:00 MST",
@@ -207,12 +213,6 @@
       "url": "https://gogriz.com/news/2026/9/20/football-beavers-use-big-plays-to-beat-griz-in-corvallis",
       "date": "Sun, 20 Sep 2026 02:03:00 MST",
       "description": "CORVALLIS – The Montana Grizzlies couldn't out-pace a fast and physical Oregon State team Saturday night, with the Beavers using their big play offensive attack to jump out to an e"
-    },
-    {
-      "title": "Griz to battle Beavers on Saturday night in Corvallis",
-      "url": "https://gogriz.com/news/2026/9/15/football-griz-to-battle-beavers-on-saturday-night-in-corvallis",
-      "date": "Tue, 15 Sep 2026 16:20:00 MST",
-      "description": "MISSOULA - Thirty years and a little over one week ago, the Montana Grizzlies and a gunslinger quarterback named Ah Yat went to Corvallis, Oregon, and returned to Missoula with a 3"
     }
   ],
   "depth_chart": {
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-10-04T00:09:08.551877+00:00"
+    "checked_at": "2026-10-04T05:44:24.430919+00:00"
   },
   "resources": [
     {
@@ -2930,22 +2930,22 @@
     "through": "Through current completed games",
     "team_summary": [
       {
-        "value": "4–1",
+        "value": "5–1",
         "label": "RECORD",
         "note": "2026"
       },
       {
-        "value": "44.4",
+        "value": "43.0",
         "label": "POINTS / GAME",
         "note": "Official game results"
       },
       {
-        "value": "429",
+        "value": "460",
         "label": "TOTAL OFFENSE",
         "note": "Yards per game"
       },
       {
-        "value": "404",
+        "value": "378",
         "label": "TOTAL DEFENSE",
         "note": "Yards allowed per game"
       }
