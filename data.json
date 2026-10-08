@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T15:32:20.443835+00:00",
+  "updated": "2026-10-08T20:47:33.037936+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "5-1",
@@ -7,7 +7,7 @@
     "streak": "W6"
   },
   "next_game": {
-    "opponent": "Northern Arizona",
+    "opponent": "#13 Northern Arizona",
     "date": "Oct 10 (Sat)",
     "time": "3 PM (MT)",
     "venue": "Away",
@@ -64,7 +64,7 @@
     },
     {
       "date": "Oct 10 (Sat)",
-      "opponent": "Northern Arizona",
+      "opponent": "#13 Northern Arizona",
       "location": "Away",
       "result": "",
       "time": "3 PM (MT)",
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-10-08T15:33:03.878623+00:00"
+    "checked_at": "2026-10-08T20:48:10.392119+00:00"
   },
   "resources": [
     {
