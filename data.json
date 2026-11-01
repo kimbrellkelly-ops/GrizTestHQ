@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-31T23:48:15.297303+00:00",
+  "updated": "2026-11-01T02:39:20.512700+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
-    "record": "5-3",
-    "conference_record": "3-2",
-    "streak": "L8"
+    "record": "6-3",
+    "conference_record": "4-2",
+    "streak": "W9"
   },
   "next_game": {
-    "opponent": "Eastern Washington",
-    "date": "Oct 31 (Sat)",
-    "time": "2 PM (MT)",
-    "venue": "Away",
+    "opponent": "Portland State",
+    "date": "Nov 7 (Sat)",
+    "time": "1 PM",
+    "venue": "Washington-Grizzly Stadium, Missoula, Mont.",
     "url": "https://gogriz.com/sports/football/schedule"
   },
   "schedule": [
@@ -82,7 +82,7 @@
       "date": "Oct 31 (Sat)",
       "opponent": "Eastern Washington",
       "location": "Away",
-      "result": "",
+      "result": "W 42-33",
       "time": "2 PM (MT)",
       "conference": true
     },
@@ -167,6 +167,12 @@
   ],
   "news": [
     {
+      "title": "Griz ground Eagles 42-33 in Cheney",
+      "url": "https://gogriz.com/news/2026/10/31/football-griz-ground-eagles-42-33-in-cheney",
+      "date": "Sat, 31 Oct 2026 18:52:00 MST",
+      "description": "CHENEY, Wash. – The Montana Grizzlies made a statement coming off the bye week, setting a new program record with 11 sacks while leaning on explosive offensive performances from Br"
+    },
+    {
       "title": "Griz return to action at Eastern Washington",
       "url": "https://gogriz.com/news/2026/10/27/football-griz-return-to-action-at-eastern-washington",
       "date": "Tue, 27 Oct 2026 18:20:00 MST",
@@ -207,12 +213,6 @@
       "url": "https://gogriz.com/news/2026/10/8/football-montana-finalizes-2027-nonconference-schedule",
       "date": "Thu, 8 Oct 2026 18:01:00 MST",
       "description": "MISSOULA - The Montana Grizzlies have finalized the nonconference portion of the 2027 football schedule, Director of Athletics Kent Haslam announced Thursday."
-    },
-    {
-      "title": "Griz back on road to face No. 13 Lumberjacks",
-      "url": "https://gogriz.com/news/2026/10/6/football-griz-back-on-road-to-face-no-13-lumberjacks",
-      "date": "Tue, 6 Oct 2026 17:05:00 MST",
-      "description": "The Montana Grizzlies return to the road this week for another top 25 showdown against a Big Sky Conference opponent as the No. 2/3 Griz travel south to Flagstaff to face the No. 1"
     }
   ],
   "depth_chart": {
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-10-31T23:48:58.483776+00:00"
+    "checked_at": "2026-11-01T02:40:20.267226+00:00"
   },
   "resources": [
     {
@@ -2930,12 +2930,12 @@
     "through": "Through current completed games",
     "team_summary": [
       {
-        "value": "5–3",
+        "value": "6–3",
         "label": "RECORD",
         "note": "2026"
       },
       {
-        "value": "43.6",
+        "value": "43.4",
         "label": "POINTS / GAME",
         "note": "Official game results"
       },
