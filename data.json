@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:57:22.551035+00:00",
+  "updated": "2026-11-11T23:57:38.019528+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "7-3",
@@ -165,6 +165,12 @@
   ],
   "news": [
     {
+      "title": "Limited number of Native Griz helmet decals on sale now",
+      "url": "https://gogriz.com/news/2026/11/11/football-limited-number-of-native-griz-helmet-decals-on-sale-now",
+      "date": "Wed, 11 Nov 2026 15:07:00 MST",
+      "description": "Own a piece of Griz history!"
+    },
+    {
       "title": "Griz host Bengals in pivotal top 25 showdown",
       "url": "https://gogriz.com/news/2026/11/10/football-griz-host-bengals-in-pivotal-top-25-showdown",
       "date": "Tue, 10 Nov 2026 17:42:00 MST",
@@ -205,12 +211,6 @@
       "url": "https://gogriz.com/news/2026/10/27/football-griz-return-to-action-at-eastern-washington",
       "date": "Tue, 27 Oct 2026 18:20:00 MST",
       "description": "With rested bodies and renewed urgency following the bye week, the Montana Grizzlies return to action on Saturday looking to break back into the win column after dropping a pair of"
-    },
-    {
-      "title": "2027 Griz Football Schedule Finalized",
-      "url": "https://gogriz.com/news/2026/10/27/2027-griz-football-schedule-finalized",
-      "date": "Tue, 27 Oct 2026 12:19:00 MST",
-      "description": "MISSOULA - Montana's 2027 football schedule has now been finalized with the Big Sky Conference announcing its league matrix for all 13 member programs on Tuesday."
     }
   ],
   "depth_chart": {
@@ -364,7 +364,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-11-11T17:58:07.688733+00:00"
+    "checked_at": "2026-11-11T23:58:25.002005+00:00"
   },
   "resources": [
     {
