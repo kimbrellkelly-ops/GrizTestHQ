@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T12:44:38.146000+00:00",
+  "updated": "2026-11-20T20:44:51.487822+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "8-3",
@@ -167,6 +167,12 @@
   ],
   "news": [
     {
+      "title": "Support #Eli4Payton",
+      "url": "https://gogriz.com/news/2026/11/20/football-support-eli4payton",
+      "date": "Fri, 20 Nov 2026 08:16:00 MST",
+      "description": ""
+    },
+    {
       "title": "Grizzly Athletics launches the 406 Fund to support Montana-born athletes",
       "url": "https://gogriz.com/news/2026/11/19/football-grizzly-athletics-launches-the-406-fund-to-support-montana-born-athletes",
       "date": "Thu, 19 Nov 2026 10:38:00 MST",
@@ -207,12 +213,6 @@
       "url": "https://gogriz.com/news/2026/11/9/football-gillmans-record-setting-day-leads-to-sweep-of-weekly-awards",
       "date": "Mon, 9 Nov 2026 09:59:00 MST",
       "description": "MISSOULA – Another chapter in the legendary book of Eli was written at Washington-Grizzly Stadium on Saturday, and the accolades have poured in accordingly."
-    },
-    {
-      "title": "Gillman makes more history, Griz roll Vikings 57-24",
-      "url": "https://gogriz.com/news/2026/11/7/football-gillman-makes-more-history-griz-roll-vikings-57-24",
-      "date": "Sat, 7 Nov 2026 19:02:00 MST",
-      "description": "MISSOULA - In a season of historic moments even more was written on Saturday at Washington-Grizzly Stadium as the Montana Grizzlies rolled past Portland State 57-24 behind a record"
     }
   ],
   "depth_chart": {
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-11-20T12:45:26.854404+00:00"
+    "checked_at": "2026-11-20T20:45:55.384962+00:00"
   },
   "resources": [
     {
@@ -27522,7 +27522,7 @@
     "title": "WATCH – Montana State head coach Brent Vigen weekly press conference previewing Montana in the Brawl of the Wild",
     "date": "Tue, 17 Nov 2026 00:14:18 +0000",
     "url": "https://skylinesportsmt.com/watch-montana-state-head-coach-brent-vigen-weekly-press-conference-previewing-montana-in-the-brawl-of-the-wild/",
-    "youtube_id": "jKosj3ZAow4"
+    "youtube_id": ""
   },
   "fcs_scores_updated": "2026-09-15T21:46:21.427669+00:00"
 }
