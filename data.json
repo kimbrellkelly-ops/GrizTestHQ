@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T16:39:33.517002+00:00",
+  "updated": "2026-11-22T21:59:50.678986+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "8-4",
@@ -7,10 +7,10 @@
     "streak": "L12"
   },
   "next_game": {
-    "opponent": "Montana State",
-    "date": "Nov 21 (Sat)",
-    "time": "Noon",
-    "venue": "Away",
+    "opponent": "Incarnate Word",
+    "date": "Nov 28 (Sat)",
+    "time": "6 PM",
+    "venue": "Washington-Grizzly Stadium, Missoula, Mont.",
     "url": "https://gogriz.com/sports/football/schedule"
   },
   "schedule": [
@@ -104,11 +104,19 @@
     },
     {
       "date": "Nov 21 (Sat)",
-      "opponent": "Montana State",
+      "opponent": "#2 Montana State",
       "location": "Away",
       "result": "L 16-42",
       "time": "Noon",
       "conference": true
+    },
+    {
+      "date": "Nov 28 (Sat)",
+      "opponent": "Incarnate Word",
+      "location": "Home",
+      "result": "",
+      "time": "6 PM",
+      "conference": false
     }
   ],
   "coaches_poll": [
@@ -167,6 +175,12 @@
   ],
   "news": [
     {
+      "title": "Griz to host UIW in first round of FCS Playoffs",
+      "url": "https://gogriz.com/news/2026/11/22/football-griz-to-host-uiw-in-first-round-of-fcs-playoffs",
+      "date": "Sun, 22 Nov 2026 11:33:00 MST",
+      "description": "MISSOULA - The Montana Grizzlies earned a postseason home game as the No. 15 seed in the 2026 FCS football playoff bracket, the NCAA announced Sunday during the annual selection sh"
+    },
+    {
       "title": "Second half surge leads Cats over Griz",
       "url": "https://gogriz.com/news/2026/11/21/football-second-half-surge-leads-cats-over-griz",
       "date": "Sat, 21 Nov 2026 17:37:00 MST",
@@ -207,12 +221,6 @@
       "url": "https://gogriz.com/news/2026/11/11/football-limited-number-of-native-griz-helmet-decals-on-sale-now",
       "date": "Wed, 11 Nov 2026 15:07:00 MST",
       "description": "Own a piece of Griz history!"
-    },
-    {
-      "title": "Griz host Bengals in pivotal top 25 showdown",
-      "url": "https://gogriz.com/news/2026/11/10/football-griz-host-bengals-in-pivotal-top-25-showdown",
-      "date": "Tue, 10 Nov 2026 17:42:00 MST",
-      "description": "Full of mojo following a historic day and a big beat-down of Portland State the Montana Grizzlies are back home for a second straight week looking to go on a run at the business en"
     }
   ],
   "depth_chart": {
@@ -366,7 +374,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-11-22T16:40:35.224039+00:00"
+    "checked_at": "2026-11-22T22:00:50.024966+00:00"
   },
   "resources": [
     {
