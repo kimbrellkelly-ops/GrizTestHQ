@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T21:44:43.766531+00:00",
+  "updated": "2026-11-22T01:37:09.818133+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
-    "record": "8-3",
-    "conference_record": "6-2",
-    "streak": "W11"
+    "record": "8-4",
+    "conference_record": "6-3",
+    "streak": "L12"
   },
   "next_game": {
     "opponent": "Montana State",
@@ -106,7 +106,7 @@
       "date": "Nov 21 (Sat)",
       "opponent": "Montana State",
       "location": "Away",
-      "result": "",
+      "result": "L 16-42",
       "time": "Noon",
       "conference": true
     }
@@ -167,6 +167,12 @@
   ],
   "news": [
     {
+      "title": "Second half surge leads Cats over Griz",
+      "url": "https://gogriz.com/news/2026/11/21/football-second-half-surge-leads-cats-over-griz",
+      "date": "Sat, 21 Nov 2026 17:37:00 MST",
+      "description": "BOZEMAN - The Grizzly defense held firm in the first half but the floodgates opened in the second as Montana fell to Montana State 42-16 in the 126th Brawl of the Wild in Bozeman o"
+    },
+    {
       "title": "Support #Eli4Payton",
       "url": "https://gogriz.com/news/2026/11/20/football-support-eli4payton",
       "date": "Fri, 20 Nov 2026 08:16:00 MST",
@@ -207,12 +213,6 @@
       "url": "https://gogriz.com/news/2026/11/10/football-griz-host-bengals-in-pivotal-top-25-showdown",
       "date": "Tue, 10 Nov 2026 17:42:00 MST",
       "description": "Full of mojo following a historic day and a big beat-down of Portland State the Montana Grizzlies are back home for a second straight week looking to go on a run at the business en"
-    },
-    {
-      "title": "Gillman’s record-setting day leads to sweep of weekly awards",
-      "url": "https://gogriz.com/news/2026/11/9/football-gillmans-record-setting-day-leads-to-sweep-of-weekly-awards",
-      "date": "Mon, 9 Nov 2026 09:59:00 MST",
-      "description": "MISSOULA – Another chapter in the legendary book of Eli was written at Washington-Grizzly Stadium on Saturday, and the accolades have poured in accordingly."
     }
   ],
   "depth_chart": {
@@ -366,7 +366,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-11-21T21:45:43.308965+00:00"
+    "checked_at": "2026-11-22T01:38:14.065235+00:00"
   },
   "resources": [
     {
@@ -2930,12 +2930,12 @@
     "through": "Through current completed games",
     "team_summary": [
       {
-        "value": "8–3",
+        "value": "8–4",
         "label": "RECORD",
         "note": "2026"
       },
       {
-        "value": "44.2",
+        "value": "44.0",
         "label": "POINTS / GAME",
         "note": "Official game results"
       },
@@ -27522,7 +27522,7 @@
     "title": "WATCH – Montana State head coach Brent Vigen weekly press conference previewing Montana in the Brawl of the Wild",
     "date": "Tue, 17 Nov 2026 00:14:18 +0000",
     "url": "https://skylinesportsmt.com/watch-montana-state-head-coach-brent-vigen-weekly-press-conference-previewing-montana-in-the-brawl-of-the-wild/",
-    "youtube_id": ""
+    "youtube_id": "jKosj3ZAow4"
   },
   "fcs_scores_updated": "2026-09-15T21:46:21.427669+00:00"
 }
