@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T06:11:48.592002+00:00",
+  "updated": "2026-11-24T17:47:45.885161+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "8-4",
@@ -48,7 +48,7 @@
     },
     {
       "date": "Sep 26 (Sat)",
-      "opponent": "#9/10 UC Davis",
+      "opponent": "#9 UC Davis",
       "location": "Away",
       "result": "W 62-22",
       "time": "8 PM (MT)",
@@ -175,6 +175,12 @@
   ],
   "news": [
     {
+      "title": "King a finalist for the Buck Buchanan Award",
+      "url": "https://gogriz.com/news/2026/11/24/football-king-a-finalist-for-the-buck-buchanan-award",
+      "date": "Tue, 24 Nov 2026 09:53:00 MST",
+      "description": "MISSOULA - Grizzly senior defensive end Tyler King has been named a finalist for the 2026 Buck Buchanan Award, given annually to the top defender in the Football Championship Subdi"
+    },
+    {
       "title": "Griz to host UIW in first round of FCS Playoffs",
       "url": "https://gogriz.com/news/2026/11/22/football-griz-to-host-uiw-in-first-round-of-fcs-playoffs",
       "date": "Sun, 22 Nov 2026 11:33:00 MST",
@@ -215,12 +221,6 @@
       "url": "https://gogriz.com/news/2026/11/15/football-griz-score-in-all-three-phases-to-beat-bengals-38-30",
       "date": "Sun, 15 Nov 2026 02:40:00 MST",
       "description": "MISSOULA - The Montana Grizzlies earned a hard-fought victory over Idaho State in front of an effervescent crowd at Washington-Grizzly Stadium on Saturday night, scoring on offense"
-    },
-    {
-      "title": "Limited number of Native Griz helmet decals on sale now",
-      "url": "https://gogriz.com/news/2026/11/11/football-limited-number-of-native-griz-helmet-decals-on-sale-now",
-      "date": "Wed, 11 Nov 2026 15:07:00 MST",
-      "description": "Own a piece of Griz history!"
     }
   ],
   "depth_chart": {
@@ -374,7 +374,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-11-24T06:12:49.475779+00:00"
+    "checked_at": "2026-11-24T17:48:31.685044+00:00"
   },
   "resources": [
     {
