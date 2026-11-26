@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T20:00:12.211479+00:00",
+  "updated": "2026-11-26T02:41:32.513087+00:00",
   "source": "Automatically refreshed from official/public sources.",
   "team": {
     "record": "8-4",
@@ -175,6 +175,12 @@
   ],
   "news": [
     {
+      "title": "Gillman, King named league MVPs as 15 Grizzlies earn All-Big Sky honors",
+      "url": "https://gogriz.com/news/2026/11/25/football-gillman-king-named-league-mvps-as-15-grizzlies-earn-all-big-sky-honors",
+      "date": "Wed, 25 Nov 2026 12:44:00 MST",
+      "description": "MISSOULA - The Montana Grizzlies earned Most Valuable Player awards on offense and defense for the first time in a quarter century, and a league-high 10 players earned first team a"
+    },
+    {
       "title": "Griz to host Cardinals in first round playoff dual",
       "url": "https://gogriz.com/news/2026/11/24/football-griz-to-host-cardinals-in-first-round-playoff-dual",
       "date": "Tue, 24 Nov 2026 18:22:00 MST",
@@ -215,12 +221,6 @@
       "url": "https://gogriz.com/news/2026/11/19/football-grizzly-athletics-launches-the-406-fund-to-support-montana-born-athletes",
       "date": "Thu, 19 Nov 2026 10:38:00 MST",
       "description": "MISSOULA – Grizzly Athletics has launched the 406 Fund, a new giving campaign to invest in student-athletes from the state of Montana, helping keep Montana talent in-state."
-    },
-    {
-      "title": "Grizzlies to honor longtime strength coach Bruce Wallwork with new team award",
-      "url": "https://gogriz.com/news/2026/11/18/football-grizzlies-to-honor-longtime-strength-coach-bruce-wallwork-with-new-team-award",
-      "date": "Wed, 18 Nov 2026 16:40:00 MST",
-      "description": "MISSOULA - Montana head football coach Bobby Kennedy has announced a new annual award honoring Bruce Wallwork, a former Grizzly player, the University of Montana's first strength a"
     }
   ],
   "depth_chart": {
@@ -374,7 +374,7 @@
         "second": "—"
       }
     ],
-    "checked_at": "2026-11-25T20:01:01.670108+00:00"
+    "checked_at": "2026-11-26T02:42:32.444057+00:00"
   },
   "resources": [
     {
@@ -27530,7 +27530,7 @@
     "title": "WATCH – Montana State head coach Brent Vigen weekly press conference previewing Montana in the Brawl of the Wild",
     "date": "Tue, 17 Nov 2026 00:14:18 +0000",
     "url": "https://skylinesportsmt.com/watch-montana-state-head-coach-brent-vigen-weekly-press-conference-previewing-montana-in-the-brawl-of-the-wild/",
-    "youtube_id": "jKosj3ZAow4"
+    "youtube_id": ""
   },
   "fcs_scores_updated": "2026-09-15T21:46:21.427669+00:00"
 }
